@@ -8,6 +8,15 @@ An interactive web application that uses facial tracking to create a dynamic vid
 
 <video src="https://github.com/kairess/face-tracking-windows/assets/5242555/999b0672-ad70-444b-a4cf-0cb4894b3977" loop autoplay></video>
 
+## Run
+
+```
+git clone https://github.com/kairess/face-tracking-windows
+cd face-tracking-windows
+npm install
+npm run dev
+```
+
 ## Reference
 
 - Inspired by [이런 창문 본 적 없을걸요? - 방구석 전자](https://youtu.be/pp2LbGQxkys)
