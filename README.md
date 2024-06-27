@@ -6,7 +6,7 @@ An interactive web application that uses facial tracking to create a dynamic vid
 
 [Try it yourself](https://kairess.github.io/face-tracking-windows)
 
-<video src="https://github.com/kairess/face-tracking-windows/assets/5242555/999b0672-ad70-444b-a4cf-0cb4894b3977" loop>
+<video src="https://github.com/kairess/face-tracking-windows/assets/5242555/999b0672-ad70-444b-a4cf-0cb4894b3977" loop autoplay></video>
 
 ## Reference
 
